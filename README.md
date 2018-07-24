@@ -1,2 +1,1 @@
-# thienchidh_git
-# Hello
+# thienchidh_git Hello
