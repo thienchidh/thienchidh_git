@@ -1,0 +1,1 @@
+package model;import java.util.List;public interface IList {    public abstract void nhanThongDiep(List<Column> List);}
